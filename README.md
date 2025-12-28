@@ -1,8 +1,10 @@
-# in5020-assignment-2
+# A Distributed Banking System
+
+Written in Java by me and my friends!
 
 ### Quick start
 
-Navigate to the root folder (Assignment2), and run this to compile the files
+Navigate to the root folder, and run this to compile the files
 ```jsx
 javac -d bin src/common/*.java src/bankserver/*.java src/bankserver/utils/*.java src/mdserver/*.java src/mdserver/utils/*.java 
 ```
